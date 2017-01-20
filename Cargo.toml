@@ -1,0 +1,7 @@
+[package]
+name = "test_ocl"
+version = "0.1.0"
+authors = ["Jason Cardinal <jason.brogrammer@gmail.com>"]
+
+[dependencies]
+"ocl" = "*"
